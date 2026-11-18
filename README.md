@@ -11,7 +11,9 @@ Soccer analysis with a focus on Phoenix Rising and the USL: public data, my own 
 - Phoenix Rising 2026 season profile: coming December 2026
 
 **Tools**
+
 Python (pandas, mplsoccer), Jupyter, StatsBomb open data, American Soccer Analysis (itscalledsoccer), Metrica Sports and SkillCorner tracking data
 
 **Writing**
+
 [Substack](https://klinealytics.substack.com) · [X](https://x.com/klinealytics)
